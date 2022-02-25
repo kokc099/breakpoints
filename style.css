@@ -1,0 +1,288 @@
+body{
+  background-color:#f1f1f1;
+}
+
+  
+  
+@media only screen and (min-width: 550px) {
+     #one{
+       display:none;
+     }
+      #two{
+       display:none;
+     }
+      #three{
+       display:none;
+     }
+      #four{
+       display:none;
+     }
+      #five{
+       display:none;
+     }
+      #six{
+       display:none;
+     }
+      #seven{
+       display:none;
+     }
+  
+  
+  
+  #text a{
+    text-decoration:none;
+    color:#000000;
+  }
+  
+  #text a:hover{
+    color:#f1f1f1;
+  }
+  #text{
+    display:block;
+    
+    position:fixed;
+    top: 40%;
+    left:30%;
+    
+   
+  font-family: Baskerville, serif;
+  font-size: 35px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 138px;
+  letter-spacing: 0em;
+  text-align: left; 
+  }
+
+}
+
+@media only screen and (min-width: 600px) {
+     #one{
+       display:none;
+     }
+      #two{
+       display:none;
+     }
+      #three{
+       display:none;
+     }
+      #four{
+       display:none;
+     }
+      #five{
+       display:none;
+     }
+      #six{
+       display:none;
+     }
+      #seven{
+       display:none;
+     }
+    #text{
+    display:none;
+  }
+}
+  
+@media only screen and (min-width: 650px) {
+     #one{
+       display:none;
+     }
+      #two{
+       display:none;
+     }
+      #three{
+       display:none;
+     }
+      #four{
+       display:none;
+     }
+      #five{
+       display:none;
+     }
+      #six{
+       display:none;
+     }
+      #seven{
+       display:block;
+     }
+      #text{
+    display:none;
+  }
+  }
+
+@media only screen and (min-width: 700px) {
+     #one{
+       display:none;
+     }
+      #two{
+       display:none;
+     }
+      #three{
+       display:none;
+     }
+      #four{
+       display:none;
+     }
+      #five{
+       display:none;
+     }
+      #six{
+       display:block;
+     }
+      #seven{
+       display:none;
+     }
+      #text{
+    display:none;
+  }
+  }
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (min-width: 800px) {
+     #one{
+       display:none;
+     }
+      #two{
+       display:none;
+     }
+      #three{
+       display:none;
+     }
+      #four{
+       display:none;
+     }
+      #five{
+       display:block;
+     }
+      #six{
+       display:none;
+     }
+      #seven{
+       display:none;
+     }
+    #text{
+    display:none;
+  }
+  }
+
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 900px) {
+    #one{
+       display:none;
+     }
+      #two{
+       display:none;
+     }
+      #three{
+       display:none;
+     }
+      #four{
+       display:block;
+     }
+      #five{
+       display:none;
+     }
+      #six{
+       display:none;
+     }
+      #seven{
+       display:none;
+     }
+      #text{
+    display:none;
+  }
+  }
+
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 1000px) {
+    #one{
+       display:none;
+     }
+      #two{
+       display:none;
+     }
+      #three{
+       display:block;
+     }
+      #four{
+       display:none;
+     }
+      #five{
+       display:none;
+     }
+      #six{
+       display:none;
+     }
+      #seven{
+       display:none;
+     }
+      #text{
+    display:none;
+  }
+  }
+
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 1100px) {
+    #one{
+       display:none;
+     }
+      #two{
+       display:block;
+     }
+      #three{
+       display:none;
+     }
+      #four{
+       display:none;
+     }
+      #five{
+       display:none;
+     }
+      #six{
+       display:none;
+     }
+      #seven{
+       display:none;
+     }
+      #text{
+    display:none;
+  }
+  }
+
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+     #one{
+       display:block;
+     }
+      #two{
+       display:none;
+     }
+      #three{
+       display:none;
+     }
+      #four{
+       display:none;
+     }
+      #five{
+       display:none;
+     }
+      #six{
+       display:none;
+     }
+      #seven{
+       display:none;
+     }
+  
+  #text{
+    display:none;
+  }
+    
+  }
+
+#seven{
+  height:45%;
+  width:45%
+}
